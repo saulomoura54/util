@@ -1,0 +1,1 @@
+﻿robocopy "C:\Users\Saulo Moura\Desktop\NOSTOP" /s "G:\Meu Drive\Rede" /e /b /mir 
